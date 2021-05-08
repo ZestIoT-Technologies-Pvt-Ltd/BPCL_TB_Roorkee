@@ -1,0 +1,11 @@
+{
+    "comment": "Time period in seconds for video of the ON Event",
+    "Person_ROI_unavailable": "300",
+    "Person_ROI_rectify": "30",
+    "Person_not_attentive": "30",
+    "Person_attentive_rectify": "30",
+    "water_check_period": "2",
+    "vid_duration": 20,
+    "Plant_end_time": "22:00",
+    "Plant_start_time": "06:00"
+}
